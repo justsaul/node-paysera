@@ -1,1 +1,1 @@
-module.exports = require('./lib/paysera');
+module.exports = require('./lib/Paysera');
